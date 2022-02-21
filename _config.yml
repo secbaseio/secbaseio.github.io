@@ -1,3 +1,10 @@
 theme: jekyll-theme-cayman
 title: SecBase
 description: Protect your Personal Identifiable Information
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: false
+google_analytics: G-Q2E0ZC3GJF
