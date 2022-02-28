@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: SecBase
-description: Protect your Personal Identifiable Information
+description: Data security made Open Source
 plugins:
 #  - jekyll-coffeescript
   - jekyll-default-layout
