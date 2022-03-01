@@ -6,3 +6,7 @@ $header-bg-color: #dbc5d5;
 $header-bg-color-secondary: #fdebfd;
 
 @import "{{ site.theme }}";
+
+.project-tagline {
+  font-weight: 510;
+}
