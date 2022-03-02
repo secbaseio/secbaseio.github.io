@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: SecBase
-description: Data security made Open Source
+description: Data security made Open
 plugins:
 #  - jekyll-coffeescript
   - jekyll-default-layout
@@ -19,4 +19,12 @@ plugins:
 
 remote_theme: pages-themes/cayman@v0.2.0
 show_downloads: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/preview.png
+        height: 630
+        width: 1200
 google_analytics: G-Q2E0ZC3GJF
