@@ -6,6 +6,6 @@ With **SecBase** you can:
 * Govern who has access to the data in your organization
 
 ### Philosophy
-* **Everyone** should be able to **secure** his data 🔒
+* **Everyone** should be able to **secure** their data 🔒
 * **Security** should be **Open Source**: reviewed by the community ️️❤️
 * **Customizable** for different needs 🔧
